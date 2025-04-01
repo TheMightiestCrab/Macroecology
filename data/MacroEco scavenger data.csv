@@ -1,0 +1,67 @@
+﻿Species name,Scientific name,Diet,Extent of occurrence,BirdLife Extent of occurrence,How much smaller than 25 mill. threshold?,How much bigger than 25 mill. threshold?,Body size,Post edits
+Black vulture,Coragyps atratus,Obligate,42593865,44300000,,,2200,
+Turkey vulture,Cathartes aura,Obligate,52285085,47100000,,,2500,
+Lesser yellow headed vulture,Cathartes burrovianus,Obligate,19989926,19600000,,,950,
+Greater yellow headed vulture,Cathartes melambrotus,Obligate,7481821,7330000,,,1650,
+King vulture,Sarcoramphus papa,Obligate,17390218,22600000,,,3800,
+California condor,Gymnogyps californianus,Obligate,623937,405000,,,14000,
+Andean condor,Vultur gryphus,Obligate,8564654,8520000,,,15000,
+Bearded vulture,Gypaetus barbatus,Obligate,61211994,61700000,,,7200,
+Egyptian vulture,Neophron percnopterus,Obligate,38244613,58000000,,,2400,
+Hooded vulture,Necrosyrtes monachus,Obligate,17879525,22500000,,,2600,
+Indian vulture,Gyps indicus,Obligate,2140061,2150000,,,6300,
+Slender-billed vulture,Gyps tenuirostris,Obligate,1512785,2130000,,,7000,
+White-rumped vulture,Gyps bengalensis,Obligate,6227552.877,7370000,,,5700,
+Griffon vulture,Gyps fulvus,Obligate,22806627.33,20400000,,,11300,
+Rüppell's vulture,Gyps rueppelli,Obligate,17951124.22,14200000,,,9000,
+Himalayan vulture,Gyps himalayensis,Obligate,10154258.72,6220000,,,12000,"removed Signapore datapoints, listed as vagrant in the area"
+White-backed vulture,Gyps africanus,Obligate,20062589.19,23400000,,,7200,Removed Israel datapoints
+Cape vulture,Gyps coprotheres,Obligate,2823440.639,1230000,,,10900,
+Red-headed vulture,Sarcogyps calvus,Obligate,6062100.885,5230000,,,5400,Removed Pakistan vagrants
+White-headed vulture,Trigonoceps occipitalis,Obligate,16691762.8,21100000,,,5300,
+Cinereous vulture,Aegypius monachus,Obligate,22087737.59,22400000,,,11500,
+Lappet-faced vulture,Torgos tracheliotos,Obligate,31259029.86,34200000,,,9400,
+Palm-nut vulture,Gypohierax angolensis,Facultative,13144006.52,18000000,,,1800,
+Common raven,Corvus corax,Facultative,133988675,137000000,,,1625,No KDE filter applied
+American crow,Corvus brachyrhynchos,Facultative,18381314,12600000,,,620,
+Carrion crow,Corvus corone,Facultative,57030536.64,81600000,,,645,No KDE filter applied
+Hooded crow,Corvus cornix,Facultative,21136393.72,NA,,,650,**
+Large-billed crow,Corvus macrorhynchos,Facultative,28639367.46,39100000,,,1000,
+House crow,Corvus splendens,Facultative,6290648.756,8510000,,,415,Removed all areas where introduced
+Australian raven,Corvus coronoides,Facultative,5663110.272,7870000,,,650,
+Pied crow,Corvus albus,Facultative,33142275.73,32900000,,,520,
+Bald eagle,Haliaeetus leucocephalus,Facultative,23143597.91,28400000,,,6500,
+Golden eagle,Aquila chrysaetos,Facultative,86452329.55,140000000,"53,547,670",,6125,
+White-tailed eagle,Haliaeetus albicilla,Facultative,60352317.61,42700000,,,6900,
+Stellar's sea eagle,Haliaeetus pelagicus,Facultative,5334236.222,2940000,,,10000,Removed Vagrant records from North America
+Wedge-tailed eagle,Aquila audax,Facultative,9699946.723,10600000,,,5300,
+Steppe eagle,Aquila nipalensis,Facultative,56958181.54,12600000,,"-44,358,182",4900,Removed vagrant cases
+Martial eagle,Polemaetus bellicosus,Facultative,19692817.71,26000000,,,6500,
+African fish eagle,Haliaeetus vocifer,Facultative,21917205.11,25200000,,,3600,
+Crested caracara,Caracara plancus,Facultative,47987410,40700000,,,1600,
+Mountain caracara,Phalcoboenus megalopterus,Facultative,3025420,2130000,,,795,
+Striated caracara,Phalcoboenus australis,Facultative,293265,154000,,,1200,
+Chimango caracara,Milvago chimango,Facultative,5807789,6660000,,,300,"Yes, removed occurrences from Easter Island where species has been introduced."
+Yellow-headed caracara,Milvago chimachima,Facultative,15997736,16500000,,,364,"Yes, removed vagrant cases (as determined by eBird comments) that remained following KDE filtering"
+White-throated caracara,Phalcoboenus albogularis,Facultative,400989,852000,,,795,***
+Black caracara,Daptrius ater,Facultative,6566882,8390000,,,445,
+Marabou stork,Leptoptilos crumenifer,Facultative,17387872,24000000,,,9000,
+Greater adjutant,Leptoptilos dubius,Facultative,1036586,1200000,,,8000,
+White stork,Ciconia ciconia,Facultative,56621594,52700000,,,4500,
+Northern ground-hornbill,Bucorvus abyssinicus,Facultative,6156261,8880000,,,4000,
+Southern ground-hornbill,Bucorvus leadbeateri,Facultative,3379711,7140000,,,6100,
+Bateleur,Terathopius ecaudatus,Facultative,16618551,23500000,,,3000,"Jordan list species as ""accidental"" hence additional data points removed"
+Tawny eagle,Aquila rapax,Facultative,40122825,52700000,,,2500,
+Imperial eagle,Aquila heliaca,Facultative,46322052.76,15400000,,"-30,922,053",4500,"Removed Sweden, Finland, Germany, Poland, Singapore data points. Listed as Vagrant"
+Pallas's fish eagle,Haliaeetus leucoryphus,Facultative,5388526,1740000,,,3700,single data point in Belarus removed
+Sanford's sea eagle,Haliaeetus sanfordi,Facultative,120671.5847,172000,,,2700,
+Black-breasted kite,Hamirostra melanosternon,Facultative,6537736.366,8350000,,,1240,
+Red kite,Milvus milvus,Facultative,5349698.964,6870000,,,1600,
+Black kite,Milvus migrans,Facultative,151528639.8,115653659,,"-35,874,981",1008,
+Brahminy kite,Haliastur indus,Facultative,27102091.29,45300000,,,700,
+Whistling kite,Haliastur sphenurus,Facultative,12949512.61,14500000,,,1000,
+Canada jay,Perisoreus canadensis,Facultative,16784075,16900000,,,84,
+Siberian jay,Perisoreus infaustus,Facultative,13229740,19300000,,,90,
+Chihuahua raven,Corvus cryptoleucus,Facultative,1718505.352,1790000,,,667,
+Torresian crow,Corvus orru,Facultative,6613896.825,12400000,,,650,
+Forest raven,Corvus tasmanicus,Facultative,786817.4517,1020000,,,800,
