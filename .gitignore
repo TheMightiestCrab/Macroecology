@@ -187,6 +187,8 @@ cython_debug/
 .conda/
 .vscode/
 
+Macroecology.code-workspace
+
 code/API species data request.ipynb
 code/birbs.ipynb
 code/species lists.py
