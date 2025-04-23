@@ -190,6 +190,7 @@ cython_debug/
 Macroecology.code-workspace
 Blackburn and Gaston 1996.pdf
 Brown and Maurer 1989.pdf
+# cabbage.txt
 
 code/API species data request.ipynb
 code/birbs.ipynb

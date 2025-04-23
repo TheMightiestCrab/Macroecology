@@ -1,0 +1,27 @@
+## Background and objectives
+
+The role of body size on species distribution has been a topic of continuous interest in macroecology, with the generally held trend that with greater body size also comes a larger range size (Brown and Maurer, 1989).
+As the field matured, researchers examined this relationship at different spatial, taxonomic, and functional scales, identifying points at which this trend disintegrates [CITATION?].
+<!-- with researchers testing the point at which the expectation that larger body sizes will be associated with larger range sizes begins to break down -->
+<!-- Brown and Maurer (1989) expanded this scope to the taxonomic level and species distributional ranges, suggesting that range sizes will generally increase as body size increases. -->
+This relationship may not be as straight forward with avian species, as small birds will have both small and large range sizes, which results in a more triangular shaped data distribution than a linear one when body size and range size (BSRS) are plotted together (Blackburn and Gaston, 1996).
+These authors went on to suggest that this triangular distribution may not hold true within taxa and there will instead be no clear and consistent BSRS relationship in avian species.
+However, Blackburn and Gaston (1989) only examined New World species.
+We therefore aim to examine the BSRS relationship at both a larger geographic scope and a smaller taxonomic scale, focusing on global avian scavenger species.
+
+<!-- * Original hypothesis was that we would see a positive relationship, but this was before we expanded to global birds. But note that there's an effective size limit on how big birds can get -->
+
+1. We expect to see a slightly negative relationship when looking at scavengers as a whole due to the number of obligate scavengers dominating the large body size classes that have small EOOs; the extremeness of the large size paired with the small EOO of those obligates may be enough to affect the linear relationship across all species, contrary to the expected relationship between bigger body sizes and larger EOOs (Brown and Maurer, 1989). 
+
+2. We anticipate that separating the obligate and facultative scavengers into their own groups will reveal different BSRS relationships. The range size of obligate scavengers will be limited by body size, because they are so large they must remain in geographic areas that facilitate flight, such as the Andean condor living in exclusively mountainous regions with strong updrafts [CITATION]. Therefore, we expect to see a negative relationship between BS and RS. However, facultative scavengers may show a positive body size-range size relationship that more closely matches the expectations outlined by Brown and Maurer (1989), because we are considering so many more species with a greater variability in body sizes; refer to that paper that showed mammals with bigger body sizes are kinda ecologically required to have larger ranges.
+
+<!-- The range size of obligate scavengers will be limited by body size, because we have so many large sp within this group and will drag the line down -->
+
+
+## Methods
+
+We will study 65 species of 22 obligate and 43 facultative avian scavengers from around the world. eBird is a bird-watching database with a wealth of observation records that we will use to calculate the extent of occurrence (EOO) of each species. The body sizes will be provided by Ferguson-Lees (2005).
+
+We draw from the methods used by [Blackburn and Gaston (1986)](https://www.jstor.org/stable/56368) to evaluate the relationship between the body size and the range size of obligate and facultative avian scavenger species. First we examine them as a single entity and then compare the effect diet strategy may have on the body size-range size relationship.
+
+* Explain why we went with $log_{10}$
